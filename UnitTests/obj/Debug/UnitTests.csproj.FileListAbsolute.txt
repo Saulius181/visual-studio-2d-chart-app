@@ -1,0 +1,9 @@
+C:\Users\Saulius\Desktop\ResultStudio\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\Saulius\Desktop\ResultStudio\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\Saulius\Desktop\ResultStudio\UnitTests\bin\Debug\Moq.dll
+C:\Users\Saulius\Desktop\ResultStudio\UnitTests\bin\Debug\nunit.framework.dll
+C:\Users\Saulius\Desktop\ResultStudio\UnitTests\bin\Debug\Moq.pdb
+C:\Users\Saulius\Desktop\ResultStudio\UnitTests\bin\Debug\Moq.xml
+C:\Users\Saulius\Desktop\ResultStudio\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Saulius\Desktop\ResultStudio\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\Saulius\Desktop\ResultStudio\UnitTests\obj\Debug\UnitTests.pdb

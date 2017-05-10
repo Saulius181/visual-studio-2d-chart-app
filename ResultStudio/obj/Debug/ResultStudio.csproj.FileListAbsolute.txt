@@ -1,0 +1,12 @@
+C:\Users\Saulius\Desktop\ResultStudio\ResultStudio\bin\Debug\ResultStudio.exe.config
+C:\Users\Saulius\Desktop\ResultStudio\ResultStudio\bin\Debug\ResultStudio.exe
+C:\Users\Saulius\Desktop\ResultStudio\ResultStudio\bin\Debug\ResultStudio.pdb
+C:\Users\Saulius\Desktop\ResultStudio\ResultStudio\obj\Debug\ResultStudio.csprojResolveAssemblyReference.cache
+C:\Users\Saulius\Desktop\ResultStudio\ResultStudio\obj\Debug\ResultStudio.Properties.Resources.resources
+C:\Users\Saulius\Desktop\ResultStudio\ResultStudio\obj\Debug\ResultStudio.ResultStudioForm.resources
+C:\Users\Saulius\Desktop\ResultStudio\ResultStudio\obj\Debug\ResultStudio.csproj.GenerateResource.Cache
+C:\Users\Saulius\Desktop\ResultStudio\ResultStudio\obj\Debug\ResultStudio.exe
+C:\Users\Saulius\Desktop\ResultStudio\ResultStudio\obj\Debug\ResultStudio.pdb
+C:\Users\Saulius\Desktop\Code\Github\visual-studio-2d-chart-app\ResultStudio\bin\Debug\ResultStudio.exe.config
+C:\Users\Saulius\Desktop\Code\Github\visual-studio-2d-chart-app\ResultStudio\obj\Debug\ResultStudio.exe
+C:\Users\Saulius\Desktop\Code\Github\visual-studio-2d-chart-app\ResultStudio\obj\Debug\ResultStudio.pdb
