@@ -7,6 +7,6 @@ C:\Users\Saulius\Desktop\ResultStudio\ResultStudio\obj\Debug\ResultStudio.Result
 C:\Users\Saulius\Desktop\ResultStudio\ResultStudio\obj\Debug\ResultStudio.csproj.GenerateResource.Cache
 C:\Users\Saulius\Desktop\ResultStudio\ResultStudio\obj\Debug\ResultStudio.exe
 C:\Users\Saulius\Desktop\ResultStudio\ResultStudio\obj\Debug\ResultStudio.pdb
-C:\Users\Saulius\Desktop\Code\Github\visual-studio-2d-chart-app\ResultStudio\bin\Debug\ResultStudio.exe.config
-C:\Users\Saulius\Desktop\Code\Github\visual-studio-2d-chart-app\ResultStudio\obj\Debug\ResultStudio.exe
-C:\Users\Saulius\Desktop\Code\Github\visual-studio-2d-chart-app\ResultStudio\obj\Debug\ResultStudio.pdb
+C:\Users\Saulius\Desktop\SauliusBartkusProgramming13\ResultStudio\ResultStudio\bin\Debug\ResultStudio.exe.config
+C:\Users\Saulius\Desktop\SauliusBartkusProgramming13\ResultStudio\ResultStudio\obj\Debug\ResultStudio.exe
+C:\Users\Saulius\Desktop\SauliusBartkusProgramming13\ResultStudio\ResultStudio\obj\Debug\ResultStudio.pdb
